@@ -1,0 +1,22 @@
+{
+  "name": "electron-bookmarker",
+  "version": "1.0.0",
+  "description": "My first solo Electron app",
+  "main": "./app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejuten/electron-bookmarker.git"
+  },
+  "author": "Elayne Juten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejuten/electron-bookmarker/issues"
+  },
+  "homepage": "https://github.com/ejuten/electron-bookmarker#readme",
+  "dependencies": {
+    "electron": "^12.0.9"
+  }
+}
